@@ -1,3 +1,5 @@
+# How about communicating with Skype? Cause, there is something more than translating Japanese. So I really need your help.
+# Skype: live:.cid.d37a1b4ceb1093df
 
 # chat_app
 
